@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36.0mm"
+   height="50.0mm"
+   viewBox="0 0 36.0 50.0"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Deluxe-Nugg-Board-Art.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1777958"
+     inkscape:cx="-237.30769"
+     inkscape:cy="222.02491"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1432" />
+  <defs
+     id="defs2">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1504" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1507" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1509" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1511" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g1420">
+    <rect
+       x="0"
+       y="0"
+       width="36.0"
+       height="50.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect1418" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g1422" />
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g1424"
+     style="display:inline" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g1426"
+     style="display:inline" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g1428"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-21.437944"
+       y="43.605675"
+       id="text40465"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan40463"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-21.437944"
+         y="43.605675"><tspan
+   style="font-weight:bold;font-size:1.05833px"
+   id="tspan51434">D1</tspan>: SCK</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-21.437944"
+         y="44.932312"
+         id="tspan40683"><tspan
+   style="font-weight:bold;font-size:1.05833px"
+   id="tspan52174">D2</tspan>: SDA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-21.782831"
+       y="42.229649"
+       id="text40465-3"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-21.782831"
+         y="42.229649"
+         id="tspan40683-4">OLED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-15.837842"
+       y="42.229649"
+       id="text40465-3-8"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-15.837842"
+         y="42.229649"
+         id="tspan40683-4-9">Buttons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-21.826393"
+       y="46.378937"
+       id="text40465-3-8-9"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-21.826393"
+         y="46.378937"
+         id="tspan40683-4-9-6">hack.gay + alexlynd.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-15.475149"
+       y="43.59042"
+       id="text40465-1"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-15.475149"
+         y="43.59042"
+         id="tspan40683-6"><tspan
+   style="font-weight:bold;font-size:1.05833px"
+   id="tspan53094">D3</tspan>: DN</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-15.475149"
+         y="44.917057"
+         id="tspan42954"><tspan
+   style="font-weight:bold;font-size:1.05833px"
+   id="tspan53756">D5</tspan>: RT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-10.983272"
+       y="43.605675"
+       id="text40465-9"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-10.983272"
+         y="43.605675"
+         id="tspan40683-3"><tspan
+   style="font-weight:bold;font-size:1.05833px"
+   id="tspan55186">D6</tspan>: UP</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-10.983272"
+         y="44.932312"
+         id="tspan46219"><tspan
+   style="font-weight:bold;font-size:1.05833px"
+   id="tspan55632">D7</tspan>: LT</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect82355"
+       width="8.9056129"
+       height="2.78455"
+       x="-15.817613"
+       y="42.470219"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect82355-2"
+       width="5.3963289"
+       height="2.78455"
+       x="-21.694881"
+       y="42.481728"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-33.565201"
+       y="41.856476"
+       id="text40465-8"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-33.565201"
+         y="41.856476"
+         id="tspan40683-5"><tspan
+   style="font-weight:bold;font-size:1.05833px"
+   id="tspan76365">D8</tspan>: DIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0330728"
+       x="-34.059311"
+       y="40.653648"
+       id="text40465-3-87"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.0330728"
+         x="-34.059311"
+         y="40.653648"
+         id="tspan40683-4-90">NeoPixel</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.094177;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect82355-9"
+       width="5.2333508"
+       height="1.3165073"
+       x="-33.951645"
+       y="40.888203"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g1430"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.928638px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0232159"
+       x="6.0790954"
+       y="44.980362"
+       id="text2723"
+       transform="scale(0.99833937,1.0016634)"><tspan
+         sodipodi:role="line"
+         id="tspan2721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';stroke-width:0.0232159"
+         x="6.0790954"
+         y="44.980362">Beta Nugget</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';stroke-width:0.0232159"
+         x="6.0790954"
+         y="46.36425"
+         id="tspan25649"> v1.0 \\\\\\</tspan></text>
+  </g>
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g1432">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.928638px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0232159"
+       x="6.0790954"
+       y="44.980362"
+       id="text2723-0"
+       transform="scale(0.99833937,1.0016634)"><tspan
+         sodipodi:role="line"
+         id="tspan2721-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';stroke-width:0.0232159"
+         x="6.0790954"
+         y="44.980362">Beta Nugget</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P';stroke-width:0.0232159"
+         x="6.0790954"
+         y="46.36425"
+         id="tspan25649-1"> v1.0 \\\\\\</tspan></text>
+  </g>
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g1434"
+     style="display:none" />
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g1436" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g1438"
+     style="display:none">
+    <g
+       id="g1569"
+       transform="matrix(0.26458333,0,0,0.26458333,18.132292,-269.43199)">
+      <g
+         inkscape:label="0"
+         id="g1518" />
+      <g
+         inkscape:label="none"
+         id="g1520" />
+      <g
+         inkscape:label="Sketch"
+         id="g1542">
+        <path
+           style="fill:none;stroke:#000000"
+           d="m -68.0315,1060.16 24.5669,-41.58"
+           id="path1522" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="m -43.4646,1018.58 24.567,41.58"
+           id="path1524" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="M -18.8976,1060.16 H 18.8976"
+           id="path1526" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="m 18.8976,1060.16 24.567,-41.58"
+           id="path1528" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="m 43.4646,1018.58 24.5669,41.58"
+           id="path1530" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="m 68.0315,1060.16 v 124.72"
+           id="path1532" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="M 68.0315,1184.88 39.685,1207.56"
+           id="path1534" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="m 39.685,1207.56 h -79.37"
+           id="path1536" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="m -39.685,1207.56 -28.3465,-22.68"
+           id="path1538" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="M -68.0315,1184.88 V 1060.16"
+           id="path1540" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bottom Layer"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Top Layer"
+     style="display:none">
+    <g
+       id="g24923"
+       transform="matrix(0.00254,0,0,0.00254,9.4004921e-4,9.4004921e-4)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24635" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24637" />
+      <g
+         style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:-0.000393701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24639" />
+      <g
+         style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:39.3701;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24649">
+        <path
+           d="M 3610,16081 H 1641"
+           id="path24641" />
+        <path
+           d="M 3610,18050 V 16081"
+           id="path24643" />
+        <path
+           d="M 1641,18050 H 3610"
+           id="path24645" />
+        <path
+           d="m 1641,16081 v 1969"
+           id="path24647" />
+      </g>
+      <g
+         style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:47.2441;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24687">
+        <path
+           d="M 3605,16850 2415,18040"
+           id="path24651" />
+        <path
+           d="M 7881,16113 V 14688"
+           id="path24653" />
+        <path
+           d="M 10290,16113 H 7881"
+           id="path24655" />
+        <path
+           d="m 10290,14688 v 1425"
+           id="path24657" />
+        <path
+           d="m 7881,14688 h 2409"
+           id="path24659" />
+        <path
+           d="m 7972,17888 h 2410"
+           id="path24661" />
+        <path
+           d="m 10382,17888 v 1425"
+           id="path24663" />
+        <path
+           d="M 10382,19313 H 7972"
+           id="path24665" />
+        <path
+           d="M 7972,19313 V 17888"
+           id="path24667" />
+        <path
+           d="M 5481,17713 V 16288"
+           id="path24669" />
+        <path
+           d="M 7890,17713 H 5481"
+           id="path24671" />
+        <path
+           d="m 7890,16288 v 1425"
+           id="path24673" />
+        <path
+           d="M 5481,16288 H 7890"
+           id="path24675" />
+        <path
+           d="m 10281,16288 h 2409"
+           id="path24677" />
+        <path
+           d="m 12690,16288 v 1425"
+           id="path24679" />
+        <path
+           d="M 12690,17713 H 10281"
+           id="path24681" />
+        <path
+           d="M 10281,17713 V 16288"
+           id="path24683" />
+        <g
+           id="g24685" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:47.2441;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24689" />
+      <g
+         style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:47.2441;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24691" />
+      <g
+         style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:78.7402;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g24821">
+        <path
+           d="M 39,17362 V 4370"
+           id="path24693" />
+        <path
+           d="M 2992,19724 39,17362"
+           id="path24695" />
+        <path
+           d="M 11259,19724 H 2992"
+           id="path24697" />
+        <path
+           d="m 14212,17362 -2953,2362"
+           id="path24699" />
+        <path
+           d="M 14212,4370 V 17362"
+           id="path24701" />
+        <path
+           d="m 11653,39 2559,4331"
+           id="path24703" />
+        <path
+           d="M 9094,4370 11653,39"
+           id="path24705" />
+        <path
+           d="M 5157,4370 H 9094"
+           id="path24707" />
+        <path
+           d="M 2598,39 5157,4370"
+           id="path24709" />
+        <path
+           d="M 39,4370 2598,39"
+           id="path24711" />
+        <g
+           id="g24713" />
+        <g
+           id="g24715" />
+        <g
+           id="g24717" />
+        <g
+           id="g24719" />
+        <g
+           id="g24721" />
+        <g
+           id="g24723" />
+        <g
+           id="g24725" />
+        <g
+           id="g24727" />
+        <g
+           id="g24729" />
+        <g
+           id="g24731" />
+        <g
+           id="g24733" />
+        <g
+           id="g24735" />
+        <g
+           id="g24737" />
+        <g
+           id="g24739" />
+        <g
+           id="g24741" />
+        <g
+           id="g24743" />
+        <g
+           id="g24745" />
+        <g
+           id="g24747" />
+        <g
+           id="g24749" />
+        <g
+           id="g24751" />
+        <g
+           id="g24753" />
+        <g
+           id="g24755" />
+        <g
+           id="g24757" />
+        <g
+           id="g24759" />
+        <g
+           id="g24761" />
+        <g
+           id="g24763" />
+        <g
+           id="g24765" />
+        <g
+           id="g24767" />
+        <g
+           id="g24769" />
+        <g
+           id="g24771" />
+        <g
+           id="g24773" />
+        <g
+           id="g24775" />
+        <g
+           id="g24777" />
+        <g
+           id="g24779" />
+        <g
+           id="g24781" />
+        <g
+           id="g24783" />
+        <g
+           id="g24785" />
+        <g
+           id="g24787" />
+        <g
+           id="g24789" />
+        <g
+           id="g24791" />
+        <g
+           id="g24793" />
+        <g
+           id="g24795" />
+        <g
+           id="g24797" />
+        <g
+           id="g24799" />
+        <g
+           id="g24801" />
+        <g
+           id="g24803" />
+        <g
+           id="g24805" />
+        <g
+           id="g24807" />
+        <g
+           id="g24809" />
+        <g
+           id="g24811" />
+        <g
+           id="g24813" />
+        <g
+           id="g24815" />
+        <g
+           id="g24817" />
+        <g
+           id="g24819" />
+      </g>
+    </g>
+  </g>
+</svg>
