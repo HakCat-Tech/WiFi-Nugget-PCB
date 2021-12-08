@@ -1,4 +1,4 @@
-# WiFi Nugget
+# WiFi Nugget PCB
 This repository contains the PCB design files for the ESP8266 based WiFi Nugget.
 
 ### Change Log + Specs
