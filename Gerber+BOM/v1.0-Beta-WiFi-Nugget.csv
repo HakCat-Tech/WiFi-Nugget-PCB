@@ -1,0 +1,30 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C4 C8 C10 C11 C12 C13 ,6,4.7μF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+C2 ,1,4.7 μF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+C1 C3 C5 C6 C7 C14 ,6,1 μF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+C9 ,1,1μF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+D1 ,1,SS14,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+D2 ,1,RED 0603,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+D3 ,1,SS14,Diode_SMD:D_SOD-123,~
+D4 ,1,WS2812B,LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+J1 ,1,Micro USB,Connector_USB:USB_Micro-B_Molex-105017-0001,~
+J2 ,1,JST PH 2.0,Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,~
+J3 ,1,NeoPixel Breakout,Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal,~
+Q1 ,1,UMH3N,Package_TO_SOT_SMD:SOT-363_SC-70-6,http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/emh3t2r-e.pdf
+Q2 ,1,DMG3415,Package_TO_SOT_SMD:SOT-23,~
+R1 R2 R3 R6 R8 R13 R16 R17 ,8,4.7K,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+R9 R10 R11 R12 R14 R15 ,6,10K,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+R4 ,1,560K,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+R5 ,1,100K,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+R7 ,1,27K,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+SW1 ,1,SPDT,Button_Switch_SMD:SW_SPDT_PCM12,https://www.digikey.com/en/products/detail/e-switch/EG1215AA/9559277
+SW2 ,1,UP,Button_Switch_SMD:SW_SPST_FSMSM,https://www.digikey.com/en/products/detail/c-k/PTS636-SM25F-SMTR-LFS/10071742
+SW3 ,1,Reset,Button_Switch_SMD:Panasonic_EVQPUM_EVQPUD,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/436331045822/5209092
+SW4 ,1,DOWN,Button_Switch_SMD:SW_SPST_FSMSM,https://www.digikey.com/en/products/detail/c-k/PTS636-SM25F-SMTR-LFS/10071742
+SW5 ,1,LEFT,Button_Switch_SMD:SW_SPST_FSMSM,https://www.digikey.com/en/products/detail/c-k/PTS636-SM25F-SMTR-LFS/10071742
+SW6 ,1,RIGHT,Button_Switch_SMD:SW_SPST_FSMSM,https://www.digikey.com/en/products/detail/c-k/PTS636-SM25F-SMTR-LFS/10071742
+U1 ,1,CP2102N-A01-GQFN24,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+U2 ,1,SH1106,Display:OLED-128O064D,https://www.vishay.com/docs/37902/oled128o064dbpp3n00000.pdf
+U3 ,1,MCP73831-2-OT,Package_TO_SOT_SMD:SOT-23-5,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
+U4 ,1,ESP-12F,RF_Module:ESP-12E,http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf
+U5 ,1,AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf
